@@ -1,5 +1,5 @@
 
-## Lab 1 Submissions
+# Lab 1 Submissions
 
 Arduino Codes and their respective circuit diagrams on LEDs and switches
 
