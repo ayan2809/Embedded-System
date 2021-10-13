@@ -1,5 +1,5 @@
 
-# Lab 6 Submissions
+# Lab 7 Submissions
 
 Arduino Codes and their respective circuit diagrams on keypad and LCD and interfacing with different sensors
 
