@@ -14,12 +14,6 @@ Arduino Codes and their respective circuit diagrams on keypad and LCD and interf
 - **Code 3 -** Program to design home security system that consists of two main modules (1) Intruder detection (2) password based door lock system. The intruder detection system consists of PIR sensor interfaced with processing unit to detect and alert under human presence condition. In password based door lock system numeric keypad to accept the password (last 4-digit of your reg. no) from user and LCD to display the message whether permission is granted or not. Upon receiving correct password signal, enable motor to open the door. In case of password mismatch or intruder detection condition activate the buzzer. 
 
 
-- **Code 4 -** Program to measure the air quality using MQ series gas sensor and display it in LCD as “AirQ= XYZ ppm”, where XYZ is a CO2 value.
-
-
-- **Code 5 -** Program to design a weather monitoring station which display temperature, CO2 level and light intensity on LCD. Print “Weather station” on first line and print the timing as “08:MM:SS” after a delay of 3 Seconds display values of temp, CO2 and light in a rolling display moving from right to lest direction. Then repeat the sequence again.
-
-
 Code can be run using the Arduino IDE or TinkerCAD.
     
 ## Tech Stack and Components
