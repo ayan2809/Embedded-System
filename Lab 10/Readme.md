@@ -1,5 +1,5 @@
 
-# Lab 8 Submissions
+# Lab 10 Submissions
 
 Arduino Codes and their respective circuit diagrams on Inter Communication Between two Arduinos (I2C)
 
